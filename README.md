@@ -12,11 +12,11 @@ GPU path tracer written in C++ with Vulkan.
 * transparent materials
 * .obj scene loading
 
-# motivation
-
 # sample render
 
 ![image](examples/example.png)
+
+# motivation
 
 I was studying graphics from [Peter Shirley's ray tracing books](https://raytracing.github.io/). This project is an extension of the code I wrote following along. Extensions include:
 * moving the path tracer to the GPU using Vulkan
